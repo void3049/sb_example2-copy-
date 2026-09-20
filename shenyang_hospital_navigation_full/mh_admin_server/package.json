@@ -13,7 +13,8 @@
         "db:studio": "drizzle-kit studio",
         "load-data": "tsx scripts/load-data.ts",
         "geocode": "tsx scripts/geocode-hospitals.ts",
-        "seed-shenyang": "tsx scripts/seed-shenyang-hospitals.ts"
+        "seed-shenyang": "tsx scripts/seed-shenyang-hospitals.ts",
+        "validate-shenyang-seed": "tsx scripts/validate-shenyang-seed.ts"
     },
     "dependencies": {
         "bcrypt": "^6.0.0",
